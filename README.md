@@ -1,4 +1,4 @@
-# LectureCraft AI — Plan Smarter, Teach Better
+# LectureCraft_AI — Teaching Workspace
 
 ## About the Project
 
