@@ -86,12 +86,10 @@ The application is designed to support educators, not replace their professional
 
 ## Technology Stack
 
-The exact technologies depend on the current implementation of the application. Update this section to match the tools used in your project.
-
 - **Frontend:** The framework and UI technologies used to build the web interface.
 - **Backend:** The services or application logic used to process and manage data.
 - **Data Storage:** The database or storage method used to save lesson plans and tasks.
-- **AI Integration:** The AI service used for content generation, if connected.
+- **AI Integration:** The AI service used for content generation.
 
 ## Future Enhancements
 
@@ -105,7 +103,6 @@ Some features that could improve LectureCraft AI in future versions include:
 - Integration with academic calendars and learning management systems.
 - Improved collaboration tools for teaching teams.
 
-These are possible future improvements and may not all be available in the current version.
 
 ## Project Link
 
@@ -119,4 +116,4 @@ The long-term vision is to develop a useful digital assistant that supports educ
 
 ---
 
-*LectureCraft AI — Plan smarter. Teach better.*
+*LectureCraft AI — Teaching Workspace*
